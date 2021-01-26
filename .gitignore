@@ -1,0 +1,8 @@
+venv/
+.envrun
+.envrun.toml
+envrun.toml
+*.egg-info
+__pycache__/
+dist
+build/
